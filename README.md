@@ -1,1 +1,1 @@
-Olá, isso é um curso de git.
+Olá, isso é um curso de git!
