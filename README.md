@@ -1,1 +1,3 @@
-Olá, isso é um curso de git!
+# Titulo do meu README
+
+Aqui neste arquivo README teremos as informações relativas ao projeto.
